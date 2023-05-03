@@ -34,3 +34,9 @@ I wrote the code in a clean indented format , and wrote comments wherever necess
 I have used a simple and efficient file structure to access the contents of the webpage.
 
 ---------------------------------------------------------------------------------
+
+GITHUB details
+
+website link : https://zepher-23.github.io/interior-design/
+
+repository link : https://github.com/zepher-23/interior-design
